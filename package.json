@@ -1,0 +1,23 @@
+{
+  "name": "mindwave-example",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konsumer/mindwave-example.git"
+  },
+  "keywords": [],
+  "author": "David Konsumer <konsumer@jetboystudio.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konsumer/mindwave-example/issues"
+  },
+  "homepage": "https://github.com/konsumer/mindwave-example#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "mindwave": "^0.2.0"
+  }
+}
